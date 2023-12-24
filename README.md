@@ -10,3 +10,4 @@
         4. https://github.com/sameerkumar18/geek-joke-api
     Quotes :
         1.https://github.com/lukePeavey/quotable
+        2.https://zenquotes.io/

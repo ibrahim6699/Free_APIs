@@ -1,4 +1,4 @@
-# simple API usage to get the gender by first name
+# A simple API to predict the gender of a person given their name
 
 import requests
 

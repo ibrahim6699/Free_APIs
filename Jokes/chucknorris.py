@@ -1,4 +1,5 @@
-# chucknorris.io is a free JSON API for hand curated Chuck Norris facts
+# chucknorris.io is a free JSON API 
+# for hand curated Chuck Norris facts
 
 import requests
 

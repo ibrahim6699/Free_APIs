@@ -12,3 +12,4 @@
         1.https://github.com/lukePeavey/quotable
         2.https://zenquotes.io/
         3.https://api.adviceslip.com/
+        4.https://forismatic.com/en/api/

@@ -11,3 +11,4 @@
     Quotes :
         1.https://github.com/lukePeavey/quotable
         2.https://zenquotes.io/
+        3.https://api.adviceslip.com/
